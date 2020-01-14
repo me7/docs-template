@@ -1,0 +1,1 @@
+from https://github.com/chrisssycollins/protected-github-pages with embeded sha1.js
